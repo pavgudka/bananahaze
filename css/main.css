@@ -157,7 +157,7 @@ p img {
 
 p.lead {
   font-family: "montserrat-regular", sans-serif;
-  font-size: 2rem;
+  font-size: rem;
   line-height: 1.8;
   color: #4f4f4f;
   margin-bottom: 3.6rem;
@@ -1825,7 +1825,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     max-width: 800px;
   }
   #about .lead {
-    font-size: 3.8rem;
+    font-size: 2.8rem;
   }
 }
 @media only screen and (max-width: 900px) {
@@ -1833,7 +1833,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     max-width: 720px;
   }
   #about .lead {
-    font-size: 3.6rem;
+    font-size: 2.6rem;
   }
 }
 @media only screen and (max-width: 768px) {
@@ -1844,7 +1844,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     max-width: 600px;
   }
   #about .lead {
-    font-size: 3.1rem;
+    font-size: 2.1rem;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -1856,15 +1856,15 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   }
   #about .lead {
     margin-top: 4.8rem;
-    font-size: 2.8rem;
+    font-size: 1.8rem;
   }
 }
 @media only screen and (max-width: 500px) {
   #about h3 {
-    font-size: 1.5rem;
+    font-size: 0.5rem;
   }
   #about .lead {
-    font-size: 2.5rem;
+    font-size: 0.5rem;
   }
 }
 @media only screen and (max-width: 400px) {
